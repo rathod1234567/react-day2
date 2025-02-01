@@ -1,0 +1,23 @@
+
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    padding: 2px;
+    background-color: blueviolet;
+}
+
+
+
+.card{
+    width: 190px;
+    gap: 10px;
+   
+    
+}
+
+.cards img{
+    width: 200px;
+    height: 300px;
+}

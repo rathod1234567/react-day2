@@ -1,0 +1,33 @@
+/* 
+body{
+  
+  background-image: url("https://www.financialexpress.com/wp-content/uploads/2024/03/Mahesh-1-1200x675-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+p,h2{
+  color: chartreuse;
+}
+
+img{
+  opacity: 0.7;
+}
+
+.color {
+  color: blue;
+} */
+
+/* body{
+  
+  background-image: url("https://cdn.vectorstock.com/i/500p/98/92/education-book-icons-library-store-or-dictionary-vector-49509892.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+} */
+
+body{
+  margin: 0;
+}
